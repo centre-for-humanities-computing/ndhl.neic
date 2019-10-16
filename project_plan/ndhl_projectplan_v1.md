@@ -9,7 +9,7 @@ the project manager <i>jdoe1</i>.</center>
 
 <center>It is verified through a steering group decision.</center>
 
-Contents {#contents .TOCHeading}
+Contents
 ========
 
 [1 Objective](#objective)
