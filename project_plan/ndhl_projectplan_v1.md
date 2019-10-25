@@ -1,13 +1,15 @@
 
 <center><h1>Project plan, mini</h1></center>
 <center><h1><b>Nordic Digital Humanities Laboratory</b></h1></center>
+
 <center>The project plan describes the project´s commitment and the plan for
-execution</center>
+execution</center>   
 
 <center>The plan is an agreement between the project owner/orderer <i>jdoe0</i> and
-the project manager <i>jdoe1</i>.</center>
+the project manager <i>jdoe1</i>.</center>   
 
 <center>It is verified through a steering group decision.</center>
+
 
 Contents
 ========
@@ -48,32 +50,37 @@ Contents
 
 [References](#references)
 
-Objective
+1: Objective
 =========
 
-Background and project idea
+1.1 Background and project idea
 ---------------------------
+Because the humanities and arts are challenged by the technical requirement of the "digital revolution", development of e-Infrastructure has favored domain experts in the core humanities and arts areas (literature, history, media studies). It order to develop high impact research in Digital Humanities and Humanities Computing, it is also neccesary that expert users (researchers with rich code repositories and technical research profiles) get access to a *shared compute and data infrastructure that can facilitate code and data sharing for highly heterogeneous and unstructured cultural heritage data*. Nordic Digital Humanities Laboratory (NDHL) is an infrastruture initiative in the Nordic countries that with the goal of providing said infrastructure for expert users initially and, in time, for the rest of humanities and arts. This project plan describes the prestudy for NDHL.
 
-\<Briefly describe the background and formulate the project idea, i.e.
-the link between the expected benefit and the project objective. The
-expected benefit, i.e. the benefit intended to be achieved within the
-customer's organisation, should be found in the project directive.\>
-
-Project objective
+1.2 Project objective
 -----------------
+For the prestudy NDHL has three objectives (in decreasing order of importance): *Infrastructure Design*, *Community Building*, *Funding Application(-s)*. 
+
+
+*Infrastructure Design*, by autumn 2020 partnering countries should agree on a minimal software stack with shared libraries and applications for Denmark, Finland, Norway, and Sweden and documentation for execution, storage and management layers for Denmark and Finland. This objective takes precedence over other objectives and all *Workshops* (see section 4) should explicitly state how they contribute to the objective.
+
+*Community Building*, to facilitate successful infrastructure design and development, it is necessary to build a stronger community among expert users, data and e-infrastructure providers in the Nordic countries. Community building is considered a direct product of *Hack days* and indirect of *Workshops* (see section 4).
+
+*Funding Application(-s)*, in order to develop and implement NDHL, the partnering countries (or a subset hereof) need to formulate a generic research infrastructure application ultimo 2020. The final workshop in December 2020 is dedicated to this objective. If the partners decide not to move forward with the infrastructure, this objective is cancelled. This decision should be an outcome of the final workshop.
 
 \<Summarise the result that should be achieved at a certain time, and
-for which cost.
-
-Describe also the balance in the project objective between the
+for which cost. Describe also the balance in the project objective between the
 result/time/cost dimensions. The basis for this should be found in the
 project directive.\>
 
-  Objective   Description   Priority
-  ----------- ------------- ----------
-  Result                    
-  Time                      
-  Cost                      
+[comment]: # (table has ++dimensions, @Michaela: how do you want it populated?)
+
+| Objective | Description | Priority |
+| ----------|-------------|:--------:|
+| Result    | | |
+| Time      | | |
+| Cost      | | |
+            
 
 Limitations
 -----------
