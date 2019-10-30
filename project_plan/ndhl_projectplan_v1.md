@@ -62,11 +62,11 @@ Because the humanities and arts are challenged by the technical requirement of t
 For the prestudy NDHL has three objectives (in decreasing order of importance): *Infrastructure Design*, *Community Building*, *Funding Application(-s)*. 
 
 
-*Infrastructure Design*, by autumn 2020 partnering countries should agree on a minimal software stack with shared libraries and applications for Denmark, Finland, Norway, and Sweden and documentation for execution, storage and management layers for Denmark and Finland. This objective takes precedence over other objectives and all *Workshops* (see section 4) should explicitly state how they contribute to the objective.
+*Infrastructure Design*, by autumn 2020 partnering countries should agree on a minimal software stack with shared libraries and applications for Denmark, Finland, Norway, and Sweden and documentation for execution, storage and management layers for Denmark and Finland. This objective takes precedence over other objectives and all *Workshops* (see section 4) should explicitly state how they contribute to the objective. 0.55 of the budget and 0.75 of the workshops are directly dedicated to this objective.
 
-*Community Building*, to facilitate successful infrastructure design and development, it is necessary to build a stronger community among expert users, data and e-infrastructure providers in the Nordic countries. Community building is considered a direct product of *Hack days* and indirect of *Workshops* (see section 4).
+*Community Building*, to facilitate successful infrastructure design and development, it is necessary to build a stronger community among expert users and data- and e-infrastructure providers in the Nordic countries. In the prestudy, community building is considered a direct product of *Hack days* and indirect of *Workshops* (see section 4). 0.075 of the budget is dedicated to *Hack days*, but if partners can commit time *Center for Humanities Computing Aarhus* will cover additional funding under its outreach program.
 
-*Funding Application(-s)*, in order to develop and implement NDHL, the partnering countries (or a subset hereof) need to formulate a generic research infrastructure application ultimo 2020. The final workshop in December 2020 is dedicated to this objective. If the partners decide not to move forward with the infrastructure, this objective is cancelled. This decision should be an outcome of the final workshop.
+*Funding Application(-s)*, in order to develop and implement NDHL, the partnering countries (or a subset hereof) should formulate a generic research infrastructure application ultimo 2020. The final workshop in December 2020 is dedicated to this objective. If the partners decide not to move forward with the infrastructure, this objective is cancelled. The cancellation decision should be an outcome of the final workshop. o.175 of the budget and 0.25 of the workshops are dedicated to this objective.
 
 \<Summarise the result that should be achieved at a certain time, and
 for which cost. Describe also the balance in the project objective between the
@@ -84,6 +84,7 @@ project directive.\>
 
 Limitations
 -----------
+During the prestudy, NDHL will not provide implementation of (or commit to implement) the virtual laboratory. This task will ultimately depend on a future collaboration between national e-infrastructure providers and universities. Nor will NDHL provide plug-n-play software tools for humanities research. Tools in or derived from the software library and applications layers have NDHL members as user group and are therefore likely to have minimnal documentation due to time constraints.
 
 \<Clarify the project objective by describing what is not included in
 the result, i.e. what other projects, the orderer or line functions are
@@ -91,13 +92,14 @@ responsible for, alternatively what will not be done at all.\>
 
 Recipients and approval criteria
 --------------------------------
-
+NDHL has three recipient classes: 1) project partners' research units, 2) infrastructure providers, 3) funding agencies. Approval criterium for 1 and 2 is commitment/no and for  3 is funding/no. Commitment from from at least two national partners is sufficient.
 \<Define for each delivery object who, or what organisation, will be the
 recipient when the project delivers and transfers the result.\>
 
-  Delivery object   Recipient, delivery   Recipient, transferral
-  ----------------- --------------------- ------------------------
-
+  | Delivery object | Recipient, delivery | Recipient, transferral |
+  | --------------- | ------------------- | -----------------------|
+  | Infrastructure design | Autumn 2020 | Spring 2021 |
+  | Generic application(s) | Dec 2020 | 2021-22 |
 
 
 \<Describe also the approval criteria for the different delivery
@@ -108,6 +110,9 @@ Project schedule and costs
 
 Milestones, decision points
 ---------------------------
+Milestones coincide with workshops ...
+
+
 
 \<Describe key check points in the form of milestones and decision
 points. When required, a Gantt chart can be attached as an appendix. Use
@@ -116,10 +121,14 @@ plan, presentation template") and the "Schedule" in Excel.\>
 
 Defined milestones (MS) and decision points (DP):
 
-  Date   MS   DP   Description
-  ------ ---- ---- -------------
-
-
+  | Date | MS | DP | Description |
+  | ---- | -- | -- | ----------- |
+  | Dec 18-19, 2109 | WS 1 | Requirements | Planning content of shared stack |
+  | Jan 15, 2020  | Requirements | |
+  | May 01, 2020  | WS 2 | Abstract description | Stakeholders meeting in order to finalize abstract description of NDHL |
+  | June 15, 2020 | Abstract description | | |
+  | Nov 01, 2020  | WS 3 | Application ||
+  | Dec 15, 2020 | Application |||
 
 Project cost estimate
 ---------------------
@@ -185,6 +194,8 @@ and externally.
 
 Risks
 =====
+
+Commitment, de-risk through hack days and community building, 
 
 \<Present the risks that have been identified during the preparation
 phase. Present also the measures that will be taken. If the risk profile
