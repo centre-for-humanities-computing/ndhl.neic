@@ -61,6 +61,11 @@ Because the humanities and arts are challenged by the technical requirement of t
 
 1.2 Project objective
 -----------------
+[comment]: # (Summarise the result that should be achieved at a certain time, and
+for which cost. Describe also the balance in the project objective between the
+result/time/cost dimensions. The basis for this should be found in the
+project directive)
+
 For the prestudy NDHL has three objectives (in decreasing order of importance): *Infrastructure Design*, *Community Building*, *Funding Application(-s)*. 
 
 
@@ -70,10 +75,6 @@ For the prestudy NDHL has three objectives (in decreasing order of importance): 
 
 *Funding Application(-s)*, in order to develop and implement NDHL, the partnering countries (or a subset hereof) should formulate a generic research infrastructure application ultimo 2020. The final workshop in December 2020 is dedicated to this objective. If the partners decide not to move forward with the infrastructure, this objective is cancelled. The cancellation decision should be an outcome of the final workshop. o.175 of the budget and 0.25 of the workshops are dedicated to this objective.
 
-\<Summarise the result that should be achieved at a certain time, and
-for which cost. Describe also the balance in the project objective between the
-result/time/cost dimensions. The basis for this should be found in the
-project directive.\>
 
 [comment]: # (table has ++dimensions, @Michaela: how do you want it populated?)
 
@@ -86,26 +87,27 @@ project directive.\>
 
 Limitations
 -----------
-During the prestudy, NDHL will not provide implementation of (or commit to implement) the virtual laboratory. This task will ultimately depend on a future collaboration between national e-infrastructure providers and universities. Nor will NDHL provide plug-n-play software tools for humanities research. Tools in or derived from the software library and applications layers have NDHL members as user group and are therefore likely to have minimnal documentation due to time constraints.
-
-\<Clarify the project objective by describing what is not included in
+[comment]: # (the project objective by describing what is not included in
 the result, i.e. what other projects, the orderer or line functions are
-responsible for, alternatively what will not be done at all.\>
+responsible for, alternatively what will not be done at all.)
+
+During the prestudy, NDHL will not provide implementation of (or commit to implement) the virtual laboratory. This task will ultimately depend on a future collaboration between national e-infrastructure providers and universities. Nor will NDHL provide plug-n-play software tools for humanities research. Tools in or derived from the software library and applications layers have NDHL members as user group and are therefore likely to have minimnal documentation due to time constraints.
 
 Recipients and approval criteria
 --------------------------------
+[comment]: # (Define for each delivery object who, or what organisation, will be the
+recipient when the project delivers and transfers the result.)
+
+[comment]: # (Describe also the approval criteria for the different delivery
+objects. Use an appendix if needed.)
+
 NDHL has three recipient classes: 1) project partners' research units, 2) infrastructure providers, 3) funding agencies. Approval criterium for 1 and 2 is commitment/no and for  3 is funding/no. Commitment from from at least two national partners is sufficient.
-\<Define for each delivery object who, or what organisation, will be the
-recipient when the project delivers and transfers the result.\>
 
   | Delivery object | Recipient, delivery | Recipient, transferral |
   | --------------- | ------------------- | -----------------------|
   | Infrastructure design | Autumn 2020 | Spring 2021 |
   | Generic application(s) | Dec 2020 | 2021-22 |
 
-
-\<Describe also the approval criteria for the different delivery
-objects. Use an appendix if needed.\>
 
 Project schedule and costs
 ===========================
@@ -211,9 +213,51 @@ and externally.
 Risks
 =====
 
+`Lack of partner commitment`
+   | | Estimate |
+   |---|:-:|
+   | Risk ||
+   | Probability ||
+   | Impact ||
+   | Responsibility ||
+   | Response ||
 
-- Commitment, de-risk through hack days and community building, 
-- A no-go result
+`Lack of Nordic convergence`
+   | | Estimate |
+   |---|:-:|
+   | Risk ||
+   | Probability ||
+   | Impact ||
+   | Responsibility ||
+   | Response ||
+
+`Decision to terminate project implementation`
+   | | Estimate |
+   |---|:-:|
+   | Risk ||
+   | Probability ||
+   | Impact ||
+   | Responsibility ||
+   | Response ||
+
+`Administrative overhead affects prestudy and/or project implementation`
+   | | Estimate |
+   |---|:-:|
+   | Risk ||
+   | Probability ||
+   | Impact ||
+   | Responsibility ||
+   | Response ||
+
+`Funding for travel and accommodation are depleted`
+   | | Estimate |
+   |---|:-:|
+   | Risk ||
+   | Probability ||
+   | Impact ||
+   | Responsibility ||
+   | Response ||
+
 
 \<Present the risks that have been identified during the preparation
 phase. Present also the measures that will be taken. If the risk profile
@@ -247,7 +291,7 @@ constitute a basis for information.\>
 
 | No. | Document name | Document designation/Id |
 |---|---|---|
-| 1 | prestudy application | project_plan/appendix/application.pdf |
+| 1 | prestudy application | [application](https://github.com/centre-for-humanities-computing/ndhl.neic/blob/master/project_plan/appendix/application.pdf) |
 
 
 
