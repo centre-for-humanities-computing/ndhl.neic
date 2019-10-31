@@ -1,4 +1,6 @@
 
+[comment]: # (@Michaela: in general the template has many categories that do not fit a pre-study well, take *organization* for instance, "reference and steering groups", at best these are identical to the working group)
+
 <center><h1>Project plan, mini</h1></center>
 <center><h1><b>Nordic Digital Humanities Laboratory</b></h1></center>
 
@@ -124,36 +126,50 @@ Defined milestones (MS) and decision points (DP):
   | Date | MS | DP | Description |
   | ---- | -- | -- | ----------- |
   | Dec 18-19, 2109 | WS 1 | Requirements | Planning content of shared stack |
-  | Jan 15, 2020  | Requirements | |
+  | Jan 15, 2020  | Requirements | . | Finalize WS 1 output |
   | May 01, 2020  | WS 2 | Abstract description | Stakeholders meeting in order to finalize abstract description of NDHL |
-  | June 15, 2020 | Abstract description | | |
+  | June 15, 2020 | Abstract description | . | finalize WS 2 output|
   | Nov 01, 2020  | WS 3 | Application ||
-  | Dec 15, 2020 | Application |||
+  | Dec 15, 2020 | Application | . | finalize WS 3 output |
 
 Project cost estimate
 ---------------------
 
+Cost estimates are in Norwegian crowns (NOK).
+
 \<Specify the number of hours and the expenses required to execute the
 project, preferably per work area.\>
 
-  Work package/Calculation item   Hours   Cost
-  ------------------------------- ------- ------
+
+|Calculation item| Hours| Cost |
+|---|:---:|---|
+| WS 1 | . | 35.000 |
+| WS 2 | . | 70.000 |
+| WS 3 | . | 35.000 |
+| Hack days | . | 20.000 |
+| Administration | . | 40.000 |
+| **Total** | . | 200.000 |
+
+
+
 
 
   Total                                   
 
 Organisation
 =============
+[comment]: # (@Michaela: how exactly should I define project ownership? It is a collaboration between NeIC and the universities. What is normal practice for NeIC projects?)
 
 \< Describe the project organisation, roles in the project and the names
 of those appointed.\>
 
-  Role              Name
-  ----------------- ------
-  Steering group    
-  Project manager   
-  Reference group   
-  Working group     
+| Role | Name |
+| --- | --- |
+| Steering group | NA |
+| Project owner | Michaela Barth |
+| Project manager | Kristoffer L. Nielbo |
+| Reference group | NA |
+| Working group | Eetu Makela, Lars Borin, Lars Johnson, Kristoffer L. Nielbo |
 
 Working methods
 ===============
@@ -195,7 +211,9 @@ and externally.
 Risks
 =====
 
-Commitment, de-risk through hack days and community building, 
+
+- Commitment, de-risk through hack days and community building, 
+- A no-go result
 
 \<Present the risks that have been identified during the preparation
 phase. Present also the measures that will be taken. If the risk profile
@@ -203,7 +221,6 @@ is extensive, use the PPS template "Risk list".\>
 
   No.   Description of risk   Proba-bility   Impact   Priority   Measure and person responsible
   ----- --------------------- -------------- -------- ---------- --------------------------------
-
 
 
 Edition history  {#edition-history .Subtitle}
@@ -227,6 +244,10 @@ constitute a basis for information.\>
 
   No.   Document name   Document designation/Id
   ----- --------------- -------------------------
+
+| No. | Document name | Document designation/Id |
+|---|---|---|
+| 1 | prestudy application | project_plan/appendix/application.pdf |
 
 
 
