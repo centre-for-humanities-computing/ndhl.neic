@@ -222,7 +222,8 @@ is extensive, use the PPS template "Risk list")
 
 
 `Lack of partner commitment`  
-   | | Estimate |
+
+   | foobar | Estimate |
    |---|:---:|
    | Risk ||
    | Probability ||
