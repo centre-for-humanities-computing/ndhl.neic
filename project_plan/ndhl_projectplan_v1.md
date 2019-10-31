@@ -219,7 +219,7 @@ is extensive, use the PPS template "Risk list")
 
 `Lack of partner commitment`  
    | | Estimate |
-   |---|:-:|
+   |---|:---:|
    | Risk ||
    | Probability ||
    | Impact ||
@@ -228,7 +228,7 @@ is extensive, use the PPS template "Risk list")
 
 `Lack of Nordic convergence`  
    | | Estimate |
-   |---|:-:|
+   |---|:---:|
    | Risk ||
    | Probability ||
    | Impact ||
@@ -237,7 +237,7 @@ is extensive, use the PPS template "Risk list")
 
 `Decision to terminate project implementation`  
    | | Estimate |
-   |---|:-:|
+   |---|:---:|
    | Risk ||
    | Probability ||
    | Impact ||
@@ -246,7 +246,7 @@ is extensive, use the PPS template "Risk list")
 
 `Administrative overhead affects prestudy and/or project implementation`  
    | | Estimate |
-   |---|:-:|
+   |---|:---:|
    | Risk ||
    | Probability ||
    | Impact ||
@@ -255,7 +255,7 @@ is extensive, use the PPS template "Risk list")
 
 `Funding for travel and accommodation are depleted`  
    | | Estimate |
-   |---|:-:|
+   |---|:---:|
    | Risk ||
    | Probability ||
    | Impact ||
