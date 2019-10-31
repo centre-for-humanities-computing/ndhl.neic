@@ -221,7 +221,7 @@ phase. Present also the measures that will be taken. If the risk profile
 is extensive, use the PPS template "Risk list")
 
 
-`Lack of partner commitment`  
+`Lack of partner commitment`
 
    | foobar | Estimate |
    |---|:---:|
@@ -231,7 +231,8 @@ is extensive, use the PPS template "Risk list")
    | Responsibility ||
    | Response ||
 
-`Lack of Nordic convergence`  
+`Lack of Nordic convergence`
+
    | | Estimate |
    |---|:---:|
    | Risk ||
@@ -240,7 +241,8 @@ is extensive, use the PPS template "Risk list")
    | Responsibility ||
    | Response ||
 
-`Decision to terminate project implementation`  
+`Decision to terminate project implementation`
+
    | | Estimate |
    |---|:---:|
    | Risk ||
@@ -249,7 +251,8 @@ is extensive, use the PPS template "Risk list")
    | Responsibility ||
    | Response ||
 
-`Administrative overhead affects prestudy and/or project implementation`  
+`Administrative overhead affects prestudy and/or project implementation`
+
    | | Estimate |
    |---|:---:|
    | Risk ||
@@ -258,7 +261,8 @@ is extensive, use the PPS template "Risk list")
    | Responsibility ||
    | Response ||
 
-`Funding for travel and accommodation are depleted`  
+`Funding for travel and accommodation are depleted`
+
    | | Estimate |
    |---|:---:|
    | Risk ||
