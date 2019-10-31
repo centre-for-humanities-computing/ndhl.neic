@@ -94,6 +94,10 @@ responsible for, alternatively what will not be done at all.)
 During the prestudy, NDHL will not provide implementation of (or commit to implement) the virtual laboratory. This task will ultimately depend on a future collaboration between national e-infrastructure providers and universities. Nor will NDHL provide plug-n-play software tools for humanities research. Tools in or derived from the software library and applications layers have NDHL members as user group and are therefore likely to have minimnal documentation due to time constraints.
 
 Recipients and approval criteria
+\<Present the risks that have been identified during the preparation
+phase. Present also the measures that will be taken. If the risk profile
+is extensive, use the PPS template "Risk list".\>
+
 --------------------------------
 [comment]: # (Define for each delivery object who, or what organisation, will be the
 recipient when the project delivers and transfers the result.)
@@ -212,7 +216,7 @@ and externally.
 
 Risks
 =====
-[comment] # (Present the risks that have been identified during the preparation
+[comment]: # (Present the risks that have been identified during the preparation
 phase. Present also the measures that will be taken. If the risk profile
 is extensive, use the PPS template "Risk list")
 
