@@ -212,56 +212,57 @@ and externally.
 
 Risks
 =====
-
-`Lack of partner commitment`
-   | | Estimate |
-   |---|:-:|
-   | Risk ||
-   | Probability ||
-   | Impact ||
-   | Responsibility ||
-   | Response ||
-
-`Lack of Nordic convergence`
-   | | Estimate |
-   |---|:-:|
-   | Risk ||
-   | Probability ||
-   | Impact ||
-   | Responsibility ||
-   | Response ||
-
-`Decision to terminate project implementation`
-   | | Estimate |
-   |---|:-:|
-   | Risk ||
-   | Probability ||
-   | Impact ||
-   | Responsibility ||
-   | Response ||
-
-`Administrative overhead affects prestudy and/or project implementation`
-   | | Estimate |
-   |---|:-:|
-   | Risk ||
-   | Probability ||
-   | Impact ||
-   | Responsibility ||
-   | Response ||
-
-`Funding for travel and accommodation are depleted`
-   | | Estimate |
-   |---|:-:|
-   | Risk ||
-   | Probability ||
-   | Impact ||
-   | Responsibility ||
-   | Response ||
-
-
-\<Present the risks that have been identified during the preparation
+[comment] # (Present the risks that have been identified during the preparation
 phase. Present also the measures that will be taken. If the risk profile
-is extensive, use the PPS template "Risk list".\>
+is extensive, use the PPS template "Risk list")
+
+
+`Lack of partner commitment`  
+   | | Estimate |
+   |---|:-:|
+   | Risk ||
+   | Probability ||
+   | Impact ||
+   | Responsibility ||
+   | Response ||
+
+`Lack of Nordic convergence`  
+   | | Estimate |
+   |---|:-:|
+   | Risk ||
+   | Probability ||
+   | Impact ||
+   | Responsibility ||
+   | Response ||
+
+`Decision to terminate project implementation`  
+   | | Estimate |
+   |---|:-:|
+   | Risk ||
+   | Probability ||
+   | Impact ||
+   | Responsibility ||
+   | Response ||
+
+`Administrative overhead affects prestudy and/or project implementation`  
+   | | Estimate |
+   |---|:-:|
+   | Risk ||
+   | Probability ||
+   | Impact ||
+   | Responsibility ||
+   | Response ||
+
+`Funding for travel and accommodation are depleted`  
+   | | Estimate |
+   |---|:-:|
+   | Risk ||
+   | Probability ||
+   | Impact ||
+   | Responsibility ||
+   | Response ||
+
+
 
   No.   Description of risk   Proba-bility   Impact   Priority   Measure and person responsible
   ----- --------------------- -------------- -------- ---------- --------------------------------
