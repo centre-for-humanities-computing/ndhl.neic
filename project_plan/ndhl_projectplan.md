@@ -180,7 +180,7 @@ requirements. Who decides what.)
 [comment]: # (Describe the procedure for delivery and approval, and also for
 transferral and approval. Appendices can be used for complex deliveries,
 in order to clarify details regarding packaging, delivery procedure and
-approval criteria (e.g. requirement and solutions descriptions).)
+approval criteria, e.g. requirement and solutions descriptions.)
 
 ## Monitoring and learning
 [comment]: # (Describe how monitoring will be carried out, at what intervals, and
@@ -199,48 +199,50 @@ and externally.)
 phase. Present also the measures that will be taken. If the risk profile
 is extensive, use the PPS template "Risk list")
 
+[comment]: # (We use the scale 1-3, 1: low, 2: medium, 3: high . and for overall risk we multiply the numbers for the probability and impact to form an overall risk.)
+
 
    | No. | Estimate |
    |---|:---:|
-   | Risk | `Lack of partner commitment` |
-   | Probability ||
-   | Impact ||
+   | Risk | `Lack of partner commitment`: 3 |
+   | Probability | 1 |
+   | Impact | 3 |
    | Responsibility | PM |
-   | Response ||
+   | Response | 1: dialogue w. coordinators about this issue; 3: admin overhead should be kept minimum; 3: motivate through action not talk |
 
 
    | No. | Estimate |
    |---|:---:|
-   | Risk | `Lack of Nordic convergence` |
-   | Probability ||
-   | Impact ||
-   | Responsibility ||
-   | Response ||
+   | Risk | `Lack of Nordic convergence`: 2 |
+   | Probability | 2 |
+   | Impact | 1 |
+   | Responsibility | PM |
+   | Response | 1: Promote minimal shared infrastructure; 2: build MVP to exemplify; 3: promote convergence between at least two members |
 
 
    | No. | Estimate |
    |---|:---:|
-   | Risk | `Decision to terminate project implementation` |
-   | Probability ||
-   | Impact ||
-   | Responsibility ||
-   | Response ||
+   | Risk | `Decision to terminate project implementation`: 3 |
+   | Probability | 1 |
+   | Impact | 3 |
+   | Responsibility | Working group |
+   | Response | . |
 
 
    | No. | Estimate |
    |---|:---:|
-   | Risk | `Administrative overhead affects prestudy and/or project implementation` |
-   | Probability ||
-   | Impact ||
+   | Risk | `Administrative overhead affects prestudy and/or project implementation`: 6 |
+   | Probability | 3 |
+   | Impact | 2 |
    | Responsibility | NeIC |
-   | Response | dialogue between PM, working group, and PO |
+   | Response | dialogue between PM, working group, and NeIC |
 
 
    | No. | Estimate |
    |---|:---:|
-   | Risk | `Travel and accommodation funds are depleted` |
-   | Probability ||
-   | Impact ||
+   | Risk | `Travel and accommodation funds are depleted`: 1 |
+   | Probability | 1 |
+   | Impact | 1 |
    | Responsibility | PM, compare expenses and budget projections |
    | Measure | partner host covers catering and accommodation |
 
@@ -271,7 +273,7 @@ constitute a basis for information.)
 
 
 # References
-[cooment]: # (List the documents that are to be seen as references. The list can
+[comment]: # (List the documents that are to be seen as references. The list can
 also contain the names of the people or organisations that can provide
 information.)
   No.   Document name/ designation/Id   Edition, date
