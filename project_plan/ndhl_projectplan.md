@@ -149,11 +149,10 @@ Cost estimates are in Norwegian crowns (NOK).
 
 
 # Organisation
+[comment]: # (Describe the project organisation, roles in the project and the names
+of those appointed.)
 
 [comment]: # (@Michaela: how exactly should I define project ownership? It is a collaboration between NeIC and the universities. What is normal practice for NeIC projects?)
-
-\< Describe the project organisation, roles in the project and the names
-of those appointed.\>
 
 | Role | Name |
 | --- | --- |
@@ -187,6 +186,15 @@ approval criteria, e.g. requirement and solutions descriptions.)
 the forums that will be used. Describe the activities that the project
 has planned for continuous learning and lessons learnt, and also how
 this knowledge will be passed on to others.)
+
+
+Bi-weekly meets with NeIC,
+
+Monthly updates among coordinators (slack?),
+
+Website for documentation,
+
+Github repo for hosting documents and tools
 
 
 ## Information distribution
@@ -252,9 +260,9 @@ is extensive, use the PPS template "Risk list")
 changes, as well as the purpose and reason behind them. Refer to any
 decisions if applicable.)
 
-  Edition   Date   Comment
-  --------- ------ ---------
-
+| Edition | Date | Comment |
+| --- | --- | --- |
+| v1 | Nov 8 |    |
 
 
 # Appendices
@@ -262,9 +270,6 @@ decisions if applicable.)
 appendices are included in the document, unlike references which only
 constitute a basis for information.)
 
-
-  No.   Document name   Document designation/Id
-  ----- --------------- -------------------------
 
 | No. | Document name | Document designation/Id |
 |---|---|---|
