@@ -52,15 +52,12 @@ Contents
 
 [References](#references)
 
-1: Objective
-=========
+# Objective
 
-1.1 Background and project idea
----------------------------
+## Background and project idea
 Because the humanities and arts are challenged by the technical requirement of the "digital revolution", development of e-Infrastructure has favored domain experts in the core humanities and arts areas (literature, history, media studies). It order to develop high impact research in Digital Humanities and Humanities Computing, it is also neccesary that expert users (researchers with rich code repositories and technical research profiles) get access to a *shared compute and data infrastructure that can facilitate code and data sharing for highly heterogeneous and unstructured cultural heritage data*. Nordic Digital Humanities Laboratory (NDHL) is an infrastruture initiative in the Nordic countries that with the goal of providing said infrastructure for expert users initially and, in time, for the rest of humanities and arts. This project plan describes the prestudy for NDHL.
 
-1.2 Project objective
------------------
+## Project objective
 [comment]: # (Summarise the result that should be achieved at a certain time, and
 for which cost. Describe also the balance in the project objective between the
 result/time/cost dimensions. The basis for this should be found in the
@@ -85,20 +82,18 @@ For the prestudy NDHL has three objectives (in decreasing order of importance): 
 | Cost      | | |
             
 
-Limitations
------------
+## Limitations
 [comment]: # (the project objective by describing what is not included in
 the result, i.e. what other projects, the orderer or line functions are
 responsible for, alternatively what will not be done at all.)
 
 During the prestudy, NDHL will not provide implementation of (or commit to implement) the virtual laboratory. This task will ultimately depend on a future collaboration between national e-infrastructure providers and universities. Nor will NDHL provide plug-n-play software tools for humanities research. Tools in or derived from the software library and applications layers have NDHL members as user group and are therefore likely to have minimnal documentation due to time constraints.
 
-Recipients and approval criteria
-\<Present the risks that have been identified during the preparation
+## Recipients and approval criteria
+[comment]: # (Present the risks that have been identified during the preparation
 phase. Present also the measures that will be taken. If the risk profile
-is extensive, use the PPS template "Risk list".\>
+is extensive, use the PPS template "Risk list".)
 
---------------------------------
 [comment]: # (Define for each delivery object who, or what organisation, will be the
 recipient when the project delivers and transfers the result.)
 
@@ -108,24 +103,22 @@ objects. Use an appendix if needed.)
 NDHL has three recipient classes: 1) project partners' research units, 2) infrastructure providers, 3) funding agencies. Approval criterium for 1 and 2 is commitment/no and for  3 is funding/no. Commitment from from at least two national partners is sufficient.
 
   | Delivery object | Recipient, delivery | Recipient, transferral |
-  | --------------- | ------------------- | -----------------------|
+  | --------------- | ------------------- | ---------------------- |
   | Infrastructure design | Autumn 2020 | Spring 2021 |
   | Generic application(s) | Dec 2020 | 2021-22 |
 
 
-Project schedule and costs
-===========================
+# Project schedule and costs 
 
-Milestones, decision points
----------------------------
+## Milestones, decision points
+
+[comment]: # (Describe key check points in the form of milestones and decision
+points. When required, a Gantt chart can be attached as an appendix. Use
+the PPS templates: "Project schedule" in PowerPoint - see" the Project
+plan, presentation template" - and the "Schedule" in Excel.)
+
 Milestones coincide with workshops ...
 
-
-
-\<Describe key check points in the form of milestones and decision
-points. When required, a Gantt chart can be attached as an appendix. Use
-the PPS templates: "Project schedule" in PowerPoint (see" the Project
-plan, presentation template") and the "Schedule" in Excel.\>
 
 Defined milestones (MS) and decision points (DP):
 
@@ -138,13 +131,11 @@ Defined milestones (MS) and decision points (DP):
   | Nov 01, 2020  | WS 3 | Application ||
   | Dec 15, 2020 | Application | . | finalize WS 3 output |
 
-Project cost estimate
----------------------
+## Project cost estimate
+[comment]: # (Specify the number of hours and the expenses required to execute the
+project, preferably per work area.)
 
 Cost estimates are in Norwegian crowns (NOK).
-
-\<Specify the number of hours and the expenses required to execute the
-project, preferably per work area.\>
 
 
 |Calculation item| Hours| Cost |
@@ -157,13 +148,8 @@ project, preferably per work area.\>
 | **Total** | . | 200.000 |
 
 
+# Organisation
 
-
-
-  Total                                   
-
-Organisation
-=============
 [comment]: # (@Michaela: how exactly should I define project ownership? It is a collaboration between NeIC and the universities. What is normal practice for NeIC projects?)
 
 \< Describe the project organisation, roles in the project and the names
@@ -172,50 +158,43 @@ of those appointed.\>
 | Role | Name |
 | --- | --- |
 | Steering group | NA |
-| Project owner | Michaela Barth |
+| <role> | Michaela Barth |
 | Project manager | Kristoffer L. Nielbo |
 | Reference group | NA |
 | Working group | Eetu Makela, Lars Borin, Lars Johnson, Kristoffer L. Nielbo |
 
-Working methods
-===============
+# Working methods
 
-\<If possible, always refer to documented working methods in the
+[comment]: # (If possible, always refer to documented working methods in the
 organisation. Describe only exceptions or additions to those methods,
-and also working methods that are specific for this project.\>
+and also working methods that are specific for this project.)
 
-Requirement dialogue and change control
-----------------------------------------
-
-\< Describe how the stakeholders' expectations should be clarified, how
+## Requirement dialogue and change control
+[comment]: # (Describe how the stakeholders' expectations should be clarified, how
 the requirement dialogue and the work involved in establishing support
 will be carried out, and also how the project handles changes to the
-requirements. Who decides what.\>
+requirements. Who decides what.)
 
-Delivery and transferral
-------------------------
+## Delivery and transferral
 
-\<Describe the procedure for delivery and approval, and also for
+[comment]: # (Describe the procedure for delivery and approval, and also for
 transferral and approval. Appendices can be used for complex deliveries,
 in order to clarify details regarding packaging, delivery procedure and
-approval criteria (e.g. requirement and solutions descriptions).\>
+approval criteria (e.g. requirement and solutions descriptions).)
 
-Monitoring and learning
------------------------
-
-\<Describe how monitoring will be carried out, at what intervals, and
+## Monitoring and learning
+[comment]: # (Describe how monitoring will be carried out, at what intervals, and
 the forums that will be used. Describe the activities that the project
 has planned for continuous learning and lessons learnt, and also how
-this knowledge will be passed on to others.\>
+this knowledge will be passed on to others.)
 
-Information distribution
--------------------------
 
-\<Describe how the project information will be spread both internally
-and externally.
+## Information distribution
+[comment]: # (Describe how the project information will be spread both internally
+and externally.)
 
-Risks
-=====
+# Risks
+
 [comment]: # (Present the risks that have been identified during the preparation
 phase. Present also the measures that will be taken. If the risk profile
 is extensive, use the PPS template "Risk list")
@@ -226,7 +205,7 @@ is extensive, use the PPS template "Risk list")
    | Risk | `Lack of partner commitment` |
    | Probability ||
    | Impact ||
-   | Responsibility ||
+   | Responsibility | PM |
    | Response ||
 
 
@@ -253,21 +232,20 @@ is extensive, use the PPS template "Risk list")
    | Risk | `Administrative overhead affects prestudy and/or project implementation` |
    | Probability ||
    | Impact ||
-   | Responsibility ||
-   | Response ||
+   | Responsibility | NeIC |
+   | Response | dialogue between PM, working group, and PO |
 
 
    | No. | Estimate |
    |---|:---:|
-   | Risk | `Funding for travel and accommodation are depleted` |
+   | Risk | `Travel and accommodation funds are depleted` |
    | Probability ||
    | Impact ||
-   | Responsibility ||
-   | Measure ||
+   | Responsibility | PM, compare expenses and budget projections |
+   | Measure | partner host covers catering and accommodation |
 
 
-Edition history  {#edition-history .Subtitle}
-================
+# Edition history
 [comment]: # (Specify the differences between the editions by describing the
 changes, as well as the purpose and reason behind them. Refer to any
 decisions if applicable.)
@@ -277,12 +255,11 @@ decisions if applicable.)
 
 
 
-Appendices  {#appendices .Subtitle}
-===========
-
-\<List the appendices to the document. Documents defined as being
+# Appendices
+[comment]: # (List the appendices to the document. Documents defined as being
 appendices are included in the document, unlike references which only
-constitute a basis for information.\>
+constitute a basis for information.)
+
 
   No.   Document name   Document designation/Id
   ----- --------------- -------------------------
@@ -293,12 +270,9 @@ constitute a basis for information.\>
 
 
 
-References {#references .Subtitle}
-==========
-
-\<List the documents that are to be seen as references. The list can
+# References
+[cooment]: # (List the documents that are to be seen as references. The list can
 also contain the names of the people or organisations that can provide
-information.\>
-
+information.)
   No.   Document name/ designation/Id   Edition, date
   ----- ------------------------------- ---------------
