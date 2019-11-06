@@ -55,7 +55,7 @@ Contents
 # Objective
 
 ## Background and project idea
-Because the humanities and arts are challenged by the technical requirement of the "digital revolution", development of e-Infrastructure has favored domain experts in the core humanities and arts areas (literature, history, media studies). It order to develop high impact research in Digital Humanities and Humanities Computing, it is also neccesary that expert users (researchers with rich code repositories and technical research profiles) get access to a *shared compute and data infrastructure that can facilitate code and data sharing for highly heterogeneous and unstructured cultural heritage data*. Nordic Digital Humanities Laboratory (NDHL) is an infrastruture initiative in the Nordic countries that with the goal of providing said infrastructure for expert users initially and, in time, for the rest of humanities and arts. This project plan describes the prestudy for NDHL.
+Development of e-Infrastructuree in the humanities and arts have typically focused on enrichment of for domain experts in core areas such as literature, history, and media studies. Only recently we are starting to see infrastructural initiatives intended to support data-intensive research in digital humanities. These initiatives are however national and developed in parallel across the Nordics with limited knowledge sharing and cross-fertilization. To anticipate developments in national infrastructure and develop a pan-nordic platform for expert users (i.e., researchers with rich code repositories and technical research profiles), Nordic Digital Humanities Laboratory (NDHL) design and implement a *shared compute and data infrastructure that can facilitate code and data sharing for highly heterogeneous and unstructured cultural heritage data across the Nordics*. Nordic Digital Humanities Laboratory (NDHL) is a digital humanities initiative in the Nordic countries with the goal of providing said infrastructure for expert users initially and, in time, for the rest of humanities and arts. This project plan describes the prestudy for NDHL.
 
 ## Project objective
 [comment]: # (Summarise the result that should be achieved at a certain time, and
@@ -117,10 +117,7 @@ points. When required, a Gantt chart can be attached as an appendix. Use
 the PPS templates: "Project schedule" in PowerPoint - see" the Project
 plan, presentation template" - and the "Schedule" in Excel.)
 
-Milestones coincide with workshops ...
-
-
-Defined milestones (MS) and decision points (DP):
+Milestones coincide with workshop deliverables. Defined milestones (MS) and decision points (DP):
 
   | Date | MS | DP | Description |
   | ---- | -- | -- | ----------- |
@@ -174,6 +171,9 @@ the requirement dialogue and the work involved in establishing support
 will be carried out, and also how the project handles changes to the
 requirements. Who decides what.)
 
+Stakeholder expectations and requirements are clarified in WS 1 and 2, where each stakeholder group will to present their current solution and nice- & need-to-haves for NDHL. Changes to requirements are then discussed and tested subsequently tested by the national coordinators' research groups.
+
+
 ## Delivery and transferral
 
 [comment]: # (Describe the procedure for delivery and approval, and also for
@@ -188,18 +188,13 @@ has planned for continuous learning and lessons learnt, and also how
 this knowledge will be passed on to others.)
 
 
-Bi-weekly meets with NeIC,
-
-Monthly updates among coordinators (slack?),
-
-Website for documentation,
-
-Github repo for hosting documents and tools
-
+Monitoring is carried out between NeIC and NDHL at project meetings at bi-monthly intervals, and internally (in NDHL) national coordinators meet once a month on Slack (first Thursday in the month, 0900-1100). Activities are documented in GitHub repositories and through the web [website](addS_url.com).
 
 ## Information distribution
 [comment]: # (Describe how the project information will be spread both internally
 and externally.)
+NDHL maillists (coordinator list and stakeholder list). Slack for coordinators. 
+
 
 # Risks
 
@@ -234,7 +229,7 @@ is extensive, use the PPS template "Risk list")
    | Probability | 1 |
    | Impact | 3 |
    | Responsibility | Working group |
-   | Response | . |
+   | Response | Termination is explained in final report to NeIC |
 
 
    | No. | Estimate |
