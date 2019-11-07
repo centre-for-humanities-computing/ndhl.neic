@@ -65,13 +65,11 @@ project directive)
 
 For the prestudy NDHL has three objectives (in decreasing order of importance): *Infrastructure Design*, *Community Building*, *Funding Application(-s)*. 
 
-
 *Infrastructure Design*, by autumn 2020 partnering countries should agree on a minimal software stack with shared libraries and applications for Denmark, Finland, Norway, and Sweden and documentation for execution, storage and management layers for Denmark and Finland. This objective takes precedence over other objectives and all *Workshops* (see section 4) should explicitly state how they contribute to the objective. 0.55 of the budget and 0.75 of the workshops are directly dedicated to this objective.
 
 *Community Building*, to facilitate successful infrastructure design and development, it is necessary to build a stronger community among expert users and data- and e-infrastructure providers in the Nordic countries. In the prestudy, community building is considered a direct product of *Hack days* and indirect of *Workshops* (see section 4). 0.075 of the budget is dedicated to *Hack days*, but if partners can commit time *Center for Humanities Computing Aarhus* will cover additional funding under its outreach program.
 
 *Funding Application(-s)*, in order to develop and implement NDHL, the partnering countries (or a subset hereof) should formulate a generic research infrastructure application ultimo 2020. The final workshop in December 2020 is dedicated to this objective. If the partners decide not to move forward with the infrastructure, this objective is cancelled. The cancellation decision should be an outcome of the final workshop. o.175 of the budget and 0.25 of the workshops are dedicated to this objective.
-
 
 [comment]: # (table has ++dimensions, @Michaela: how do you want it populated?)
 
@@ -81,7 +79,6 @@ For the prestudy NDHL has three objectives (in decreasing order of importance): 
 | Time      | | |
 | Cost      | | |
             
-
 ## Limitations
 [comment]: # (the project objective by describing what is not included in
 the result, i.e. what other projects, the orderer or line functions are
@@ -106,7 +103,6 @@ NDHL has three recipient classes: 1) project partners' research units, 2) infras
   | --------------- | ------------------- | ---------------------- |
   | Infrastructure design | Autumn 2020 | Spring 2021 |
   | Generic application(s) | Dec 2020 | 2021-22 |
-
 
 # Project schedule and costs 
 
@@ -144,7 +140,6 @@ Cost estimates are in Norwegian crowns (NOK).
 | Administration | . | 40.000 |
 | **Total** | . | 200.000 |
 
-
 # Organisation
 [comment]: # (Describe the project organisation, roles in the project and the names
 of those appointed.)
@@ -173,7 +168,6 @@ requirements. Who decides what.)
 
 Stakeholder expectations and requirements are clarified in WS 1 and 2, where each stakeholder group will to present their current solution and nice- & need-to-haves for NDHL. Changes to requirements are then discussed and tested subsequently tested by the national coordinators' research groups.
 
-
 ## Delivery and transferral
 
 [comment]: # (Describe the procedure for delivery and approval, and also for
@@ -187,14 +181,12 @@ the forums that will be used. Describe the activities that the project
 has planned for continuous learning and lessons learnt, and also how
 this knowledge will be passed on to others.)
 
-
 Monitoring is carried out between NeIC and NDHL at project meetings at bi-monthly intervals, and internally (in NDHL) national coordinators meet once a month on Slack (first Thursday in the month, 0900-1100). Activities are documented in GitHub repositories and through the web [website](addS_url.com).
 
 ## Information distribution
 [comment]: # (Describe how the project information will be spread both internally
 and externally.)
 NDHL maillists (coordinator list and stakeholder list). Slack for coordinators. 
-
 
 # Risks
 
@@ -204,7 +196,6 @@ is extensive, use the PPS template "Risk list")
 
 [comment]: # (We use the scale 1-3, 1: low, 2: medium, 3: high . and for overall risk we multiply the numbers for the probability and impact to form an overall risk.)
 
-
    | No. | Estimate |
    |---|:---:|
    | Risk | `Lack of partner commitment`: 3 |
@@ -212,7 +203,6 @@ is extensive, use the PPS template "Risk list")
    | Impact | 3 |
    | Responsibility | PM |
    | Response | 1: dialogue w. coordinators about this issue; 3: admin overhead should be kept minimum; 3: motivate through action not talk |
-
 
    | No. | Estimate |
    |---|:---:|
@@ -222,7 +212,6 @@ is extensive, use the PPS template "Risk list")
    | Responsibility | PM |
    | Response | 1: Promote minimal shared infrastructure; 2: build MVP to exemplify; 3: promote convergence between at least two members |
 
-
    | No. | Estimate |
    |---|:---:|
    | Risk | `Decision to terminate project implementation`: 3 |
@@ -230,7 +219,6 @@ is extensive, use the PPS template "Risk list")
    | Impact | 3 |
    | Responsibility | Working group |
    | Response | Termination is explained in final report to NeIC |
-
 
    | No. | Estimate |
    |---|:---:|
@@ -240,7 +228,6 @@ is extensive, use the PPS template "Risk list")
    | Responsibility | NeIC |
    | Response | dialogue between PM, working group, and NeIC |
 
-
    | No. | Estimate |
    |---|:---:|
    | Risk | `Travel and accommodation funds are depleted`: 1 |
@@ -248,7 +235,6 @@ is extensive, use the PPS template "Risk list")
    | Impact | 1 |
    | Responsibility | PM, compare expenses and budget projections |
    | Measure | partner host covers catering and accommodation |
-
 
 # Edition history
 [comment]: # (Specify the differences between the editions by describing the
@@ -259,22 +245,19 @@ decisions if applicable.)
 | --- | --- | --- |
 | v1 | Nov 8 |    |
 
-
 # Appendices
 [comment]: # (List the appendices to the document. Documents defined as being
 appendices are included in the document, unlike references which only
 constitute a basis for information.)
 
-
 | No. | Document name | Document designation/Id |
 |---|---|---|
 | 1 | prestudy application | [application](https://github.com/centre-for-humanities-computing/ndhl.neic/blob/master/project_plan/appendix/application.pdf) |
-
-
 
 # References
 [comment]: # (List the documents that are to be seen as references. The list can
 also contain the names of the people or organisations that can provide
 information.)
-  No.   Document name/ designation/Id   Edition, date
-  ----- ------------------------------- ---------------
+
+| No. | Document name | Document designation/Id | Edition, date |
+|---|---|---|---|
