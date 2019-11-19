@@ -3,23 +3,21 @@ title: Planning a shared stack and data repository
 place: Gothenburg University
 time: 18 - 19 Dec. 2019
 coordinator: Kristoffer L. Nielbo & Frida Haestrup
-contact: kln@cas.au.dk & fridahaestrup@live.dk
+contact: kln@cas.au.dk (+45 2683 2608) & fridahaestrup@live.dk
 ```
 
 Workshop information in Indico [here](https://indico.neic.no/event/111/)
-
-
 
 ## DAY 1: WED 18/12 ##
 
 | Time        | Content           | Task  |
 | ------------- |:-------------:| -----:|
 | 12:15-13:00 | Lunch & Introductions |  |
-| 13:00-13:30 | Welcome from NeIC |  |
+| 13:00-13:30 | Welcome from NeIC | Michaela Barth |
 | 13:30-15:00 | National *State of the Art* | National presentations (<15min) |
 | 15:00-17:00 | NDHL Wishlist | List from everyone (<5min) |
 | 17:00-19:00 | Check-in ++ |  |
-| 19:00-00:00 | Dinner @ TBA |  |
+| 19:00-00:00 | Dinner | TBA |
 
 
 ## DAY 2: THURS 19/12 ##
@@ -46,11 +44,9 @@ How do we communicate and share knowledge during the NDHL pilot study? We curren
 ### NDHL 2020 Activvites ###
 Planned activities for 2020 are outlined in the [project plan](https://github.com/centre-for-humanities-computing/ndhl.neic/blob/master/project_plan/ndhl_projectplan.md), but we need to update and approve activities collectively.
 
-## Location ##
-Venue: ADDRESS TBAs
-	- Room C250 on December 18
-	- Room H821 on December 19
+## Locations ##
+Venue: Gothenburg University, __LOC WILL FOLLOW__
+    - Room C250, December 18
+    - Room H821, December 19
 
-Hotel: Scandic Rubinen, Kungsportsavenyn 24, Centrum, 411 36 Gøteborg, Sverige
-
-
+Hotel: [Scandic Rubinen](https://www.scandichotels.com/hotels/sweden/gothenburg/scandic-rubinen), Kungsportsavenyn 24, Centrum, 411 36 Gøteborg, Sverige
