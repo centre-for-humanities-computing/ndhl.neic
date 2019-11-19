@@ -45,7 +45,7 @@ How do we communicate and share knowledge during the NDHL pilot study? We curren
 Planned activities for 2020 are outlined in the [project plan](https://github.com/centre-for-humanities-computing/ndhl.neic/blob/master/project_plan/ndhl_projectplan.md), but we need to update and approve activities collectively.
 
 ## Locations ##
-Venue: Gothenburg University, __LOC WILL FOLLOW__
+Venue: Gothenburg University, [Humanisten](https://goo.gl/maps/cfQaYGSTQ4AMu29T7)
     - Room C250, December 18
     - Room H821, December 19
 
