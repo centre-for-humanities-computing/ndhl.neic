@@ -101,9 +101,10 @@ NDHL has three recipient classes: 1) project partners' research units, 2) infras
 
   | Delivery object | Recipient, delivery | Recipient, transferral |
   | --------------- | ------------------- | ---------------------- |
-  | Infrastructure design | Autumn 2020 | Spring 2021 |
+  | Infrastructure design (paper) | Autumn 2020 | Participants, Spring 2021 |
   | Generic application(s) | Dec 2020 | 2021-22 |
-
+  | Early adopters and stakeholders (identification of) | xyz | xyz |
+  | documenation of data | xyz | xyz |
 # Project schedule and costs 
 
 ## Milestones, decision points
@@ -155,6 +156,7 @@ of those appointed.)
 | Working group | Eetu Makela, Lars Borin, Lars Johnson, Kristoffer L. Nielbo |
 
 # Working methods
+OSS and FAIR when possible
 
 [comment]: # (If possible, always refer to documented working methods in the
 organisation. Describe only exceptions or additions to those methods,
@@ -175,7 +177,7 @@ transferral and approval. Appendices can be used for complex deliveries,
 in order to clarify details regarding packaging, delivery procedure and
 approval criteria, e.g. requirement and solutions descriptions.)
 
-## Monitoring and learning
+    ## Monitoring and learning
 [comment]: # (Describe how monitoring will be carried out, at what intervals, and
 the forums that will be used. Describe the activities that the project
 has planned for continuous learning and lessons learnt, and also how
@@ -193,6 +195,9 @@ NDHL maillists (coordinator list and stakeholder list). Slack for coordinators.
 [comment]: # (Present the risks that have been identified during the preparation
 phase. Present also the measures that will be taken. If the risk profile
 is extensive, use the PPS template "Risk list")
+
+[comment]: # (make nice html table or list)
+
 
 [comment]: # (We use the scale 1-3, 1: low, 2: medium, 3: high . and for overall risk we multiply the numbers for the probability and impact to form an overall risk.)
 
