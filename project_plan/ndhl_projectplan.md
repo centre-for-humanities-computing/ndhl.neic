@@ -112,15 +112,12 @@ NDHL has three recipient classes: 1) project partners' research units, 2) infras
   | --------------- | ------------------- | ---------------------- |
   | Infrastructure design (paper) | Autumn 2020 | Participants, Spring 2021 |
   | Generic application(s) | Dec 2020 | 2021-22 |
-<<<<<<< HEAD
   | Early adopters and stakeholders (identification of) | xyz | xyz |
   | documenation of data | xyz | xyz |
-=======
 
 [comment]: # So who are the recipients?
 
 
->>>>>>> beed36204eeee384429875eeba88f6e9b2569880
 # Project schedule and costs 
 
 ## Milestones, decision points
