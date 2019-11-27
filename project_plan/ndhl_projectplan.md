@@ -54,6 +54,17 @@ Contents
 # Objective
 
 ## Background and project idea
+
+
+Project pitch  
+NDHL provides a shared software and application layer for modeling and analysis of cultural heritage data across the Nordics.
+Reader's digest
+
+Pre-study pitch  
+NDHL prestudy provides design patterns and builds the necessary community for NDHL.
+Reader's digest
+
+
 Development of e-infrastructure in the humanities and arts have typically focused on enrichment available to domain experts in core areas such as literature, history, and media studies. Only recently we are starting to see infrastructural initiatives intended to support data-intensive research in digital humanities. These initiatives are, however, national and developed in parallel across the Nordics with limited knowledge sharing or cross-fertilization. To anticipate developments in national infrastructure and develop a pan-nordic platform for expert users (i.e., researchers with rich code repositories and technical research profiles), Nordic Digital Humanities Laboratory (NDHL) will design and implement a *shared compute and data infrastructure that can facilitate code and data sharing for highly heterogeneous and unstructured cultural heritage data across the Nordics*. NDHL is a digital humanities initiative in the Nordic countries with the goal of providing said infrastructure for expert users initially and, in time, for the rest of humanities and arts. This project plan describes the pre-study for NDHL.
 
 [comment]: # (@knielbo: we like to have the actual project idea tuned down to a one hiss pitch sentence, The NDHL pre-study contributes to ?community building and improved infrastructure design within more neglected parts within humanities? by ...)
@@ -67,7 +78,7 @@ result/time/cost dimensions. The basis for this should be found in the project d
 For the pre-study NDHL has three objectives (in decreasing order of importance):
 *Infrastructure Design*,
 *Community Building* and
-*Funding Application(-s)*. 
+*Funding Application(-s)*.
 
 
 *Infrastructure Design*: By autumn 2020 partnering countries should agree on a minimal software stack with shared libraries and applications for Denmark, Finland, Norway, and Sweden alongside documentation for execution, storage, and management layers for such a software stack in Denmark and Finland. This objective takes precedence over other objectives and all *Workshops* (see section 4) should explicitly state how they contribute to this objective. 0.55 of the budget and 0.75 of the workshops are directly dedicated to this objective.
@@ -82,7 +93,7 @@ For the pre-study NDHL has three objectives (in decreasing order of importance):
 | Result | Time | Cost |
 | -------|------|:----:|
 | 0.5    | 0.3  | 0.2  |
-            
+
 ## Expected Benefit
 
 [comment]: # (@knielbo: This has to be made, clearer. You can copy and paste from the application, but try to tune it down to a list
@@ -118,7 +129,7 @@ NDHL has three recipient classes: 1) project partners' research units, 2) infras
 [comment]: # So who are the recipients?
 
 
-# Project schedule and costs 
+# Project schedule and costs
 
 ## Milestones, decision points
 
