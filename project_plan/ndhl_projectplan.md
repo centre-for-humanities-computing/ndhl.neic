@@ -55,17 +55,10 @@ Contents
 
 ## Background and project idea
 
+Development of e-infrastructure in the humanities and arts have typically focused on enrichment available to domain experts in core areas such as literature, history, and media studies. Only recently we are starting to see infrastructural initiatives intended to support data-intensive research in digital humanities. These initiatives are, however, national and developed in parallel across the Nordics with limited knowledge sharing or cross-fertilization. To anticipate developments in national infrastructure and develop a pan-nordic platform for expert users (i.e., researchers with rich code repositories and technical research profiles), Nordic Digital Humanities Laboratory (NDHL) will design and implement a shared compute and data infrastructure that can facilitate code and data sharing for highly heterogeneous and unstructured cultural heritage data across the Nordics. NDHL is a digital humanities initiative in the Nordic countries with the goal of providing said infrastructure for expert users initially and, in time, for the rest of humanities and arts. This project plan describes the pre-study for NDHL.
 
-Project pitch  
-NDHL provides a shared software and application layer for modeling and analysis of cultural heritage data across the Nordics.
-Reader's digest
+> NDHL's goal is to provide a shared software and application layer for modeling and analysis of cultural heritage data across the Nordics. The NDHL prestudy will provide design patterns and build community required to initiate NDHL.
 
-Pre-study pitch  
-NDHL prestudy provides design patterns and builds the necessary community for NDHL.
-Reader's digest
-
-
-Development of e-infrastructure in the humanities and arts have typically focused on enrichment available to domain experts in core areas such as literature, history, and media studies. Only recently we are starting to see infrastructural initiatives intended to support data-intensive research in digital humanities. These initiatives are, however, national and developed in parallel across the Nordics with limited knowledge sharing or cross-fertilization. To anticipate developments in national infrastructure and develop a pan-nordic platform for expert users (i.e., researchers with rich code repositories and technical research profiles), Nordic Digital Humanities Laboratory (NDHL) will design and implement a *shared compute and data infrastructure that can facilitate code and data sharing for highly heterogeneous and unstructured cultural heritage data across the Nordics*. NDHL is a digital humanities initiative in the Nordic countries with the goal of providing said infrastructure for expert users initially and, in time, for the rest of humanities and arts. This project plan describes the pre-study for NDHL.
 
 [comment]: # (@knielbo: we like to have the actual project idea tuned down to a one hiss pitch sentence, The NDHL pre-study contributes to ?community building and improved infrastructure design within more neglected parts within humanities? by ...)
 
@@ -121,10 +114,9 @@ NDHL has three recipient classes: 1) project partners' research units, 2) infras
 
   | Delivery object | Recipient, delivery | Recipient, transferral |
   | --------------- | ------------------- | ---------------------- |
-  | Infrastructure design (paper) | Autumn 2020 | Participants, Spring 2021 |
-  | Generic application(s) | Dec 2020 | 2021-22 |
+  | Infrastructure design (paper) | 1, Autumn 2020 | 1 (Spring 2021) |
   | Early adopters and stakeholders (identification of) | xyz | xyz |
-  | documenation of data | xyz | xyz |
+  | guidelines for documenation | 2, Autumn 2020  | xyz |
 
 [comment]: # So who are the recipients?
 
@@ -170,7 +162,6 @@ Cost estimates are in Norwegian crowns (NOK).
 [comment]: # (Describe the project organisation, roles in the project and the names
 of those appointed.)
 
-[comment]: # (@Michaela: how exactly should I define project ownership? It is a collaboration between NeIC and the universities. What is normal practice for NeIC projects? @knielbo: think about your preferred title I would have suggested pre-study coordinator)
 
 | Role | Name |
 | --- | --- |
@@ -180,7 +171,7 @@ of those appointed.)
 | Working group | Eetu Makela, Lars Borin, Lars Johnson, Kristoffer L. Nielbo |
 
 # Working methods
-OSS and FAIR when possible
+NDHL adhere to principles for Open-Source Software (OSS) and publish software under the MIT license. For data, NDHL follows the FAIR principles (Findable, Accessible, Interoperable, Reusable) for management of metadata and, when possible raw and derived data.
 
 [comment]: # (If possible, always refer to documented working methods in the
 organisation. Describe only exceptions or additions to those methods,
@@ -202,7 +193,7 @@ transferral and approval. Appendices can be used for complex deliveries,
 in order to clarify details regarding packaging, delivery procedure and
 approval criteria, e.g. requirement and solutions descriptions.)
 
-    ## Monitoring and learning
+## Monitoring and learning
 [comment]: # (Describe how monitoring will be carried out, at what intervals, and
 the forums that will be used. Describe the activities that the project
 has planned for continuous learning and lessons learnt, and also how
@@ -219,62 +210,22 @@ and externally.)
 
 
 # Risks
-[comment]: # @knielbo: This somehow doesn't look very readible, do a real table instead?
-
 [comment]: # (Present the risks that have been identified during the preparation
 phase. Present also the measures that will be taken. If the risk profile
 is extensive, use the PPS template "Risk list")
 
-[comment]: # (make nice html table or list)
 
 
 [comment]: # (We use the scale 1-3, 1: low, 2: medium, 3: high . and for overall risk we multiply the numbers for the probability and impact to form an overall risk.)
 
 
-   | No. | Estimate |
-   |---|:---:|
-   | Risk | `Lack of partner commitment`: 3 |
-   | Probability | 1 |
-   | Impact | 3 |
-   | Responsibility | PM |
-   | Response | 1: dialogue w. coordinators about this issue; 3: admin overhead should be kept minimum; 3: motivate through action not talk |
-
-
-   | No. | Estimate |
-   |---|:---:|
-   | Risk | `Lack of Nordic convergence`: 2 |
-   | Probability | 2 |
-   | Impact | 1 |
-   | Responsibility | PM |
-   | Response | 1: Promote minimal shared infrastructure; 2: build MVP to exemplify; 3: promote convergence between at least two members |
-
-
-   | No. | Estimate |
-   |---|:---:|
-   | Risk | `Decision to terminate project implementation`: 3 |
-   | Probability | 1 |
-   | Impact | 3 |
-   | Responsibility | Working group |
-   | Response | Termination is explained in final report to NeIC |
-
-
-   | No. | Estimate |
-   |---|:---:|
-   | Risk | `Administrative overhead affects prestudy and/or project implementation`: 6 |
-   | Probability | 3 |
-   | Impact | 2 |
-   | Responsibility | NeIC |
-   | Response | dialogue between PM, working group, and NeIC |
-
-
-   | No. | Estimate |
-   |---|:---:|
-   | Risk | `Travel and accommodation funds are depleted`: 1 |
-   | Probability | 1 |
-   | Impact | 1 |
-   | Responsibility | PM, compare expenses and budget projections |
-   | Measure | partner host covers catering and accommodation |
-
+| Type | Risk | Probability | Impact | Responsibility | Response |
+| --- | :---: | :---: | :---: | --- | --- |
+| `Lack of partner commitment` | 1 | 3 | 1 | PM | 1: dialogue w. coordinators about this issue; 2: admin overhead should be kept minimum; 3: motivate through action not talk |
+| `Lack of Nordic convergence` | 2 | 2 | 1 | PM | 1: Promote minimal shared infrastructure; 2: build MVP to exemplify; 3: promote convergence between at least two members |
+| `Decision to terminate project implementation` | 3 | 1 | 3 | Working Group | Termination is explained in final report to NeIC |
+| `Administrative overhead affects prestudy and/or project implementation` | 6 | 3 | 2 | NeIC | Dialogue between PM, working group, and NeIC |
+| `Travel and accommodation funds are depleted` | 1 | 1 | 1 | PM | Partner host covers catering and accommodation |
 
 # Edition history
 [comment]: # (Specify the differences between the editions by describing the
