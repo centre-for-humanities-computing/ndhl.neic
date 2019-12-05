@@ -91,6 +91,13 @@ For the pre-study NDHL has three objectives (in decreasing order of importance):
 
 [comment]: # (@knielbo: This has to be made, clearer. You can copy and paste from the application, but try to tune it down to a list
 
+*Facilitate access to compute and data resources for a deprioritized research area*, coordination between national eScience research and infrastructure initiates will faciliate access to relevant national data and compute resources across the Nordics (this is the core motivation for NDHL).  
+
+*Mapping existing national solutions*, as a by-product of coordination betweeen national eScience research, NDHL will map national exiting national solutions, which will be available in a paper and the NeIC report.
+
+
+*Bulding a Nordic community*, through the NDHL prestudy existing bonds between researchers will be strengthened and new bonds will be forged between researchers, data-, and infrastucture providers.
+
 ## Limitations
 [comment]: # (the project objective by describing what is not included in
 the result, i.e. what other projects, the orderer or line functions are
@@ -114,14 +121,14 @@ NDHL has three recipient classes: 1) project partners' research units, 2) infras
 
   | Delivery object | Recipient, delivery | Recipient, transferral |
   | --------------- | ------------------- | ---------------------- |
-  | Infrastructure design (paper) | 1, Autumn 2020 | 1 (Spring 2021) |
-  | Early adopters and stakeholders (identification of) | xyz | xyz |
-  | Guidelines for documenation | 2, Autumn 2020  | xyz |
-  |  Application | December 31, 2020  | xyz |
-  | Project report | November 15, 2020  | xyz |
-  | Workshop 1 | x | xyz |
-  | Workshop 2 | x | xyz |
-  | Workshop 3 | x | xyz |
+  | Infrastructure design (paper) | 1, Autumn 2020 | 1, Spring 2021 |
+  | Early adopters and stakeholders (identification of) | 1, Autumn 2020 | 1, Autumn 2020 |
+  | Guidelines for documenation | 2, Autumn 2020  | 2, Autumn 2020 |
+  |  Application | 1, December 31, 2020  | 1, Spring 2021 |
+  | Project report | November 15, 2020  | November 15, 2020 |
+  | Workshop 1 | December 17, 2019 | . |
+  | Workshop 2 | May 2020 | . |
+  | Workshop 3 | November 2020 | . |
 
 
 [comment]: # So who are the recipients?
@@ -192,7 +199,7 @@ requirements. Who decides what.)
 Stakeholder expectations and requirements are clarified in WS 1 and 2, where each stakeholder group will to present their current solution as well as nice- & need-to-haves for NDHL. Changes to requirements are then discussed and subsequently tested by the national coordinators' research groups.
 
 
-## Delivery and transferral
+[comment]: # (## Delivery and transferral)
 
 [comment]: # (Describe the procedure for delivery and approval, and also for
 transferral and approval. Appendices can be used for complex deliveries,
@@ -206,13 +213,14 @@ has planned for continuous learning and lessons learnt, and also how
 this knowledge will be passed on to others.)
 
 
-Monitoring is carried out between NeIC and NDHL during bi-monthly management meetings and internally (in NDHL) national coordinators meet once a month on Slack (first Thursday in the month, 0900-1100). Activities are documented in GitHub repositories and through the web [website](addS_url.com).
+Monitoring is carried out between NeIC and NDHL during bi-monthly management meetings and internally (in NDHL) national coordinators meet once a month on Slack (first Thursday in the month, 0900-1100). Activities are documented in GitHub repositories and through the web [website](https://centre-for-humanities-computing.github.io/Nordic-Digital-Humanities-Laboratory/).
 
 ## Information distribution
 [comment]: # (Describe how the project information will be spread both internally
 and externally.)
 * NDHL maillists (coordinator list and stakeholder list)
 * Slack for coordinators
+* website for the public
 
 
 # Risks
