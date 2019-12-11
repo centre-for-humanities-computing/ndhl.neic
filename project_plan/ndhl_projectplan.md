@@ -60,14 +60,7 @@ Development of e-infrastructure in the humanities and arts have typically focuse
 > NDHL's goal is to provide a shared software and application layer for modeling and analysis of cultural heritage data across the Nordics. The NDHL prestudy will provide design patterns and build community required to initiate NDHL.
 
 
-[comment]: # (@knielbo: we like to have the actual project idea tuned down to a one hiss pitch sentence, The NDHL pre-study contributes to ?community building and improved infrastructure design within more neglected parts within humanities? by ...)
-
-
 ## Project objective
-[comment]: # (Summarise the result that should be achieved at a certain time, and
-for which cost. Describe also the balance in the project objective between the
-result/time/cost dimensions. The basis for this should be found in the project directive)
-
 For the pre-study NDHL has three objectives (in decreasing order of importance):
 *Infrastructure Design*,
 *Community Building* and
@@ -89,33 +82,22 @@ For the pre-study NDHL has three objectives (in decreasing order of importance):
 
 ## Expected Benefit
 
-[comment]: # (@knielbo: This has to be made, clearer. You can copy and paste from the application, but try to tune it down to a list
-
 *Facilitate access to compute and data resources for a deprioritized research area*, coordination between national eScience research and infrastructure initiates will faciliate access to relevant national data and compute resources across the Nordics (this is the core motivation for NDHL).  
 
 *Mapping existing national solutions*, as a by-product of coordination betweeen national eScience research, NDHL will map national exiting national solutions, which will be available in a paper and the NeIC report.
 
-
 *Bulding a Nordic community*, through the NDHL prestudy existing bonds between researchers will be strengthened and new bonds will be forged between researchers, data-, and infrastucture providers.
 
 ## Limitations
-[comment]: # (the project objective by describing what is not included in
 the result, i.e. what other projects, the orderer or line functions are
 responsible for, alternatively what will not be done at all.)
 
 During the pre-study NDHL will not provide implementation of (or commit to implement) the virtual laboratory. This task will ultimately depend on a future collaboration between national e-infrastructure providers and universities. Nor will NDHL provide plug-n-play software tools for humanities research. Tools in or derived from the software library and applications layers have NDHL members as user group and are, therefore, likely to have minimnal documentation due to time constraints.
-[comment]: # @knielbo Not sure whether I completely get this last sentence. Will potential early adopters be identified?
 
 ## Recipients and approval criteria
-[comment]: # (Present the risks that have been identified during the preparation
 phase. Present also the measures that will be taken. If the risk profile
 is extensive, use the PPS template "Risk list".)
 
-[comment]: # (Define for each delivery object who, or what organisation, will be the
-recipient when the project delivers and transfers the result.)
-
-[comment]: # (Describe also the approval criteria for the different delivery
-objects. Use an appendix if needed.)
 
 NDHL has three recipient classes: 1) project partners' research units, 2) infrastructure providers, 3) funding agencies. Approval criterium for 1 and 2 is commitment/no and for 3 is funding/no. Commitment from from at least two national partners is sufficient.
 
@@ -125,23 +107,16 @@ NDHL has three recipient classes: 1) project partners' research units, 2) infras
   | Early adopters and stakeholders (identification of) | 1, Autumn 2020 | 1, Autumn 2020 |
   | Guidelines for documenation | 2, Autumn 2020  | 2, Autumn 2020 |
   |  Application | 1, December 31, 2020  | 1, Spring 2021 |
-  | Project report | November 15, 2020  | November 15, 2020 |
+  | Final report | November 15, 2020  | November 15, 2020 |
   | Workshop 1 | December 17, 2019 | . |
   | Workshop 2 | May 2020 | . |
   | Workshop 3 | November 2020 | . |
-
-
-[comment]: # So who are the recipients?
 
 
 # Project schedule and costs
 
 ## Milestones, decision points
 
-[comment]: # (Describe key check points in the form of milestones and decision
-points. When required, a Gantt chart can be attached as an appendix. Use
-the PPS templates: "Project schedule" in PowerPoint - see" the Project
-plan, presentation template" - and the "Schedule" in Excel.)
 
 Milestones coincide with workshop deliverables. Defined milestones (MS) and decision points (DP):
 
@@ -155,9 +130,6 @@ Milestones coincide with workshop deliverables. Defined milestones (MS) and deci
   | Dec 15, 2020 | Application | . | finalize WS 3 output |
 
 ## Project cost estimate
-[comment]: # (Specify the number of hours and the expenses required to execute the
-project, preferably per work area.)
-
 Cost estimates are in Norwegian crowns (NOK).
 
 
@@ -172,9 +144,6 @@ Cost estimates are in Norwegian crowns (NOK).
 
 
 # Organisation
-[comment]: # (Describe the project organisation, roles in the project and the names
-of those appointed.)
-
 
 | Role | Name |
 | --- | --- |
@@ -186,50 +155,19 @@ of those appointed.)
 # Working methods
 NDHL adhere to principles for Open-Source Software (OSS) and publish software under the MIT license. For data, NDHL follows the FAIR principles (Findable, Accessible, Interoperable, Reusable) for management of metadata and, when possible raw and derived data.
 
-[comment]: # (If possible, always refer to documented working methods in the
-organisation. Describe only exceptions or additions to those methods,
-and also working methods that are specific for this project.)
-
 ## Requirement dialogue and change control
-[comment]: # (Describe how the stakeholders' expectations should be clarified, how
-the requirement dialogue and the work involved in establishing support
-will be carried out, and also how the project handles changes to the
-requirements. Who decides what.)
-
 Stakeholder expectations and requirements are clarified in WS 1 and 2, where each stakeholder group will to present their current solution as well as nice- & need-to-haves for NDHL. Changes to requirements are then discussed and subsequently tested by the national coordinators' research groups.
 
-
-[comment]: # (## Delivery and transferral)
-
-[comment]: # (Describe the procedure for delivery and approval, and also for
-transferral and approval. Appendices can be used for complex deliveries,
-in order to clarify details regarding packaging, delivery procedure and
-approval criteria, e.g. requirement and solutions descriptions.)
-
 ## Monitoring and learning
-[comment]: # (Describe how monitoring will be carried out, at what intervals, and
-the forums that will be used. Describe the activities that the project
-has planned for continuous learning and lessons learnt, and also how
-this knowledge will be passed on to others.)
-
-
 Monitoring is carried out between NeIC and NDHL during bi-monthly management meetings and internally (in NDHL) national coordinators meet once a month on Slack (first Thursday in the month, 0900-1100). Activities are documented in GitHub repositories and through the web [website](https://centre-for-humanities-computing.github.io/Nordic-Digital-Humanities-Laboratory/).
 
 ## Information distribution
-[comment]: # (Describe how the project information will be spread both internally
-and externally.)
 * NDHL maillists (coordinator list and stakeholder list)
 * Slack for coordinators
 * website for the public
 
 
 # Risks
-[comment]: # (Present the risks that have been identified during the preparation
-phase. Present also the measures that will be taken. If the risk profile
-is extensive, use the PPS template "Risk list")
-
-
-
 [comment]: # (We use the scale 1-3, 1: low, 2: medium, 3: high . and for overall risk we multiply the numbers for the probability and impact to form an overall risk.)
 
 
@@ -242,20 +180,12 @@ is extensive, use the PPS template "Risk list")
 | `Travel and accommodation funds are depleted` | 1 | 1 | 1 | PM | Partner host covers catering and accommodation |
 
 # Edition history
-[comment]: # (Specify the differences between the editions by describing the
-changes, as well as the purpose and reason behind them. Refer to any
-decisions if applicable.)
-
 | Edition | Date | Comment |
 | --- | --- | --- |
-| v1 | Nov 8 |    |
+| v1 | Dec 12 |    |
 
 
 # Appendices
-[comment]: # (List the appendices to the document. Documents defined as being
-appendices are included in the document, unlike references which only
-constitute a basis for information.)
-
 
 | No. | Document name | Document designation/Id |
 |---|---|---|
