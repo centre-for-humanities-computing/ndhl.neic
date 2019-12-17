@@ -69,9 +69,9 @@ For the pre-study NDHL has three objectives (in decreasing order of importance):
 
 *Infrastructure Design*: By autumn 2020 partnering countries should agree on a minimal software stack with shared libraries and applications for Denmark, Finland, Norway, and Sweden alongside documentation for execution, storage, and management layers for such a software stack in Denmark and Finland. This objective takes precedence over other objectives and all *Workshops* (see section 4) should explicitly state how they contribute to this objective. 0.55 of the budget and 0.75 of the workshops are directly dedicated to this objective.
 
-*Community Building*: In order to facilitate successful infrastructure design and development it is necessary to build a stronger community among expert users and data- and e-infrastructure providers in the Nordic countries. In the pre-study, community building is considered as a direct product of *Hack days* and an indirect one of *Workshops* (see section 4). 0.075 of the budget is dedicated to *Hack days*, but if partners can commit time *Center for Humanities Computing Aarhus* will cover additional funding for this under its outreach program.
+*Community Building*: In order to facilitate successful infrastructure design and development it is necessary to build a stronger community among expert users and data and e-infrastructure providers in the Nordic countries. In the pre-study community building is considered as a direct product of *Hack days* and an indirect one of *Workshops* (see section 4). 0.075 of the budget is dedicated to *Hack days*, but if partners can commit time *Center for Humanities Computing Aarhus* will cover additional funding for this under its outreach program.
 
-*Funding Application(-s)*: In order to develop and implement NDHL, the partnering countries (or a subset hereof) should formulate a generic research infrastructure application ultimo 2020. The final workshop in December 2020 is dedicated to this objective. If the partners decide not to move forward with the infrastructure, this objective is cancelled. The cancellation decision should be an outcome of the final workshop. 0.175 of the budget and 0.25 of the workshops are dedicated to this objective.
+*Funding Application(-s)*: In order to develop and implement NDHL the partnering countries (or a subset hereof) should formulate a generic research infrastructure application ultimo 2020. The final workshop in December 2020 is dedicated to this objective. If the partners decide not to move forward with the infrastructure this objective is cancelled. The cancellation decision should be an outcome of the final workshop. 0.175 of the budget and 0.25 of the workshops are dedicated to this objective.
 
 
 [comment]: # (table has ++dimensions, @Michaela: how do you want it populated? Answer: this is an example below, following our usual way, it should add up to 100 percent)
@@ -84,21 +84,14 @@ For the pre-study NDHL has three objectives (in decreasing order of importance):
 
 *Facilitate access to compute and data resources for a deprioritized research area*, coordination between national eScience research and infrastructure initiates will faciliate access to relevant national data and compute resources across the Nordics (this is the core motivation for NDHL).  
 
-*Mapping existing national solutions*, as a by-product of coordination betweeen national eScience research, NDHL will map national exiting national solutions, which will be available in a paper and the NeIC report.
+*Mapping existing national solutions*, as a by-product of coordination betweeen national eScience research NDHL will map national exiting national solutions, which will be available in a paper and the NeIC report.
 
-*Bulding a Nordic community*, through the NDHL prestudy existing bonds between researchers will be strengthened and new bonds will be forged between researchers, data-, and infrastucture providers.
+*Bulding a Nordic community*, through the NDHL prestudy existing bonds between researchers will be strengthened and new bonds will be forged between researchers, data, and infrastucture providers.
 
 ## Limitations
-the result, i.e. what other projects, the orderer or line functions are
-responsible for, alternatively what will not be done at all.)
-
 During the pre-study NDHL will not provide implementation of (or commit to implement) the virtual laboratory. This task will ultimately depend on a future collaboration between national e-infrastructure providers and universities. Nor will NDHL provide plug-n-play software tools for humanities research. Tools in or derived from the software library and applications layers have NDHL members as user group and are, therefore, likely to have minimnal documentation due to time constraints.
 
 ## Recipients and approval criteria
-phase. Present also the measures that will be taken. If the risk profile
-is extensive, use the PPS template "Risk list".)
-
-
 NDHL has three recipient classes: 1) project partners' research units, 2) infrastructure providers, 3) funding agencies. Approval criterium for 1 and 2 is commitment/no and for 3 is funding/no. Commitment from from at least two national partners is sufficient.
 
   | Delivery object | Recipient, delivery | Recipient, transferral |
@@ -108,7 +101,7 @@ NDHL has three recipient classes: 1) project partners' research units, 2) infras
   | Guidelines for documenation | 2, Autumn 2020  | 2, Autumn 2020 |
   |  Application | 1, December 31, 2020  | 1, Spring 2021 |
   | Final report | November 15, 2020  | November 15, 2020 |
-  | Workshop 1 | December 17, 2019 | . |
+  | Workshop 1 | December 18, 2019 | . |
   | Workshop 2 | May 2020 | . |
   | Workshop 3 | November 2020 | . |
 
@@ -125,9 +118,9 @@ Milestones coincide with workshop deliverables. Defined milestones (MS) and deci
   | Dec 18-19, 2109 | WS 1 | Requirements | Planning content of shared stack |
   | Jan 15, 2020  | Requirements | . | Finalize WS 1 output |
   | May 01, 2020  | WS 2 | Abstract description | Stakeholders meeting in order to finalize abstract description of NDHL |
-  | June 15, 2020 | Abstract description | . | finalize WS 2 output|
+  | June 15, 2020 | Abstract description | . | Finalize WS 2 output|
   | Nov 01, 2020  | WS 3 | Application ||
-  | Dec 15, 2020 | Application | . | finalize WS 3 output |
+  | Dec 15, 2020 | Application | . | Finalize WS 3 output |
 
 ## Project cost estimate
 Cost estimates are in Norwegian crowns (NOK).
@@ -153,18 +146,18 @@ Cost estimates are in Norwegian crowns (NOK).
 | Working group | Eetu Makela, Lars Borin, Lars Johnson, Kristoffer L. Nielbo |
 
 # Working methods
-NDHL adhere to principles for Open-Source Software (OSS) and publish software under the MIT license. For data, NDHL follows the FAIR principles (Findable, Accessible, Interoperable, Reusable) for management of metadata and, when possible raw and derived data.
+NDHL adhere to principles for Open-Source Software (OSS) and publish software under the MIT license. For data NDHL follows the FAIR principles (Findable, Accessible, Interoperable, Reusable) for management of metadata and, when possible, raw and derived data.
 
 ## Requirement dialogue and change control
 Stakeholder expectations and requirements are clarified in WS 1 and 2, where each stakeholder group will to present their current solution as well as nice- & need-to-haves for NDHL. Changes to requirements are then discussed and subsequently tested by the national coordinators' research groups.
 
 ## Monitoring and learning
-Monitoring is carried out between NeIC and NDHL during bi-monthly management meetings and internally (in NDHL) national coordinators meet once a month on Slack (first Thursday in the month, 0900-1100). Activities are documented in GitHub repositories and through the web [website](https://centre-for-humanities-computing.github.io/Nordic-Digital-Humanities-Laboratory/).
+Monitoring is carried out between NeIC and NDHL during bi-monthly management meetings and internally (in NDHL) national coordinators meet once a month on Slack (first Thursday in the month, 0900-1100). Activities are documented in GitHub repositories and through the [website](https://centre-for-humanities-computing.github.io/Nordic-Digital-Humanities-Laboratory/).
 
 ## Information distribution
-* NDHL maillists (coordinator list and stakeholder list)
+* NDHL mail-lists (coordinator list and stakeholder list)
 * Slack for coordinators
-* website for the public
+* Website for the public
 
 
 # Risks
