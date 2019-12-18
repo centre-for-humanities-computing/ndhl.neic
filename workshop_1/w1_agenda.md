@@ -41,7 +41,7 @@ Each participant presents a short wishlist of what in terms of compute and data 
 ### Pilot Infrastructure ###
 How do we communicate and share knowledge during the NDHL pilot study? We currently have a [website](https://centre-for-humanities-computing.github.io/Nordic-Digital-Humanities-Laboratory/) in need of content, a Slack channel under NeIC, and a GitHUb [repository](https://github.com/centre-for-humanities-computing/ndhl.neic). Is this sufficient and how do we maximize their utility. At the moment cooridnators are available on Slack first Thursday each month 09:00-11:00.
 
-### NDHL 2020 Activvites ###
+### NDHL 2020 Activites ###
 Planned activities for 2020 are outlined in the [project plan](https://github.com/centre-for-humanities-computing/ndhl.neic/blob/master/project_plan/ndhl_projectplan.md), but we need to update and approve activities collectively.
 
 ## Locations ##
