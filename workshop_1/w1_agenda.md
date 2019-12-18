@@ -24,7 +24,7 @@ Workshop information in Indico [here](https://indico.neic.no/event/111/)
 
 | Time        | Content           | Task  |
 | ------------- |:-------------:| -----:|
-| 09:00-10:00 | Pilot Infrastructure |  |
+| 09:00-10:00 | Infrastructure | Kalle Happonen |
 | 10:00-11:00 | NLPL - lessons learned | Stephan Oephen |
 | 11:00-12:00 | NDHL 2020 activities | Approve project plan |
 | 12:00-13:00 | Lunch & Goodbyes |  |
@@ -33,7 +33,7 @@ Workshop information in Indico [here](https://indico.neic.no/event/111/)
 ## Detailed program ##
 
 ### National *State of the Art* ###
-National coordinators (Lars Borin, Lars Johnsen, Eetu M&auml;kel&auml;, Kristoffer L. Nielbo) and data providers (Lars Johnsen, Love B&ouml;rjeson, Per Møldrup-Dalum) present a summary of what is available to them in terms of compute and data at a national level. Please prepare a couple of succinct slides for documentation of summaries. The goal is to identify current national infrastructures that NDHL can leverage. 
+National coordinators (Lars Borin, Lars Johnsen, Eetu M&auml;kel&auml;, Kristoffer L. Nielbo) and data providers (Lars Johnsen, Love B&ouml;rjeson, Per Møldrup-Dalum) present a summary of what is available to them in terms of compute and data at a national level. Please prepare a couple of succinct slides for documentation of summaries. The goal is to identify current national infrastructures that NDHL can leverage.
 
 ### NDHL Wishlist ###
 Each participant presents a short wishlist of what in terms of compute and data would facilitate computational research/digital humanities across the Nordics. The goal is to define minimal requirements to NDHL.
