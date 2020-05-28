@@ -55,7 +55,7 @@ Contents
 
 ## Background and project idea
 
-Development of e-infrastructure in the humanities and arts have typically focused on enrichment available to domain experts in core areas such as literature, history, and media studies. Only recently we are starting to see infrastructural initiatives intended to support data-intensive research in digital humanities. These initiatives are, however, national and developed in parallel across the Nordics with limited knowledge sharing or cross-fertilization. To anticipate developments in national infrastructure and develop a pan-nordic platform for expert users (i.e., researchers with rich code repositories and technical research profiles), Nordic Digital Humanities Laboratory (NDHL) will design and implement a shared compute and data infrastructure that can facilitate code and data sharing for highly heterogeneous and unstructured cultural heritage data across the Nordics. NDHL is a digital humanities initiative in the Nordic countries with the goal of providing said infrastructure for expert users initially and, in time, for the rest of humanities and arts. This project plan describes the pre-study for NDHL.
+Development of e-infrastructure in the humanities has typically focused on data enrichment for domain experts in core areas of humanities such as literature, history, and media studies. Only recently, are we starting to see infrastructural initiatives intended to support data-intensive research in digital humanities (e.g., modeling and analysis of large collection of cultural heritage data). These initiatives are, however, national and developed in parallel across the Nordics with limited knowledge sharing or cross-fertilization. To anticipate developments in national infrastructure and develop a pan-nordic platform for expert users (i.e., researchers with rich code repositories and technical research profiles), Nordic Digital Humanities Laboratory (NDHL) will design and implement a shared compute and data infrastructure that can facilitate code and data sharing for highly heterogeneous and unstructured cultural heritage data across the Nordics. NDHL is a digital humanities initiative in the Nordic countries with the goal of providing said infrastructure for expert users initially and, in time, for the rest of humanities and arts. This project plan describes the pre-study for NDHL.
 
 > NDHL's goal is to provide a shared software and application layer for modeling and analysis of cultural heritage data across the Nordics. The NDHL prestudy will provide design patterns and build community required to initiate NDHL.
 
@@ -76,9 +76,13 @@ For the pre-study NDHL has three objectives (in decreasing order of importance):
 
 [comment]: # (table has ++dimensions, @Michaela: how do you want it populated? Answer: this is an example below, following our usual way, it should add up to 100 percent)
 
+<center>
+
 | Result | Time | Cost |
 | -------|------|:----:|
 | 0.5    | 0.3  | 0.2  |
+
+</center>
 
 ## Expected Benefit
 
@@ -94,17 +98,20 @@ During the pre-study NDHL will not provide implementation of (or commit to imple
 ## Recipients and approval criteria
 NDHL has three recipient classes: 1) project partners' research units, 2) infrastructure providers, 3) funding agencies. Approval criterium for 1 and 2 is commitment/no and for 3 is funding/no. Commitment from from at least two national partners is sufficient.
 
+<center>
+
   | Delivery object | Recipient, delivery | Recipient, transferral |
   | --------------- | ------------------- | ---------------------- |
-  | Infrastructure design (paper) | 1, Autumn 2020 | 1, Spring 2021 |
-  | Early adopters and stakeholders (identification of) | 1, Autumn 2020 | 1, Autumn 2020 |
-  | Guidelines for documenation | 2, Autumn 2020  | 2, Autumn 2020 |
-  |  Application | 1, December 31, 2020  | 1, Spring 2021 |
-  | Final report | November 15, 2020  | November 15, 2020 |
+  | Infrastructure design (paper) | 1, Autumn 2021 | 1, Spring 2022 |
+  | Early adopters and stakeholders (identification of) | 1, Autumn 2021 | 1, Autumn 2021 |
+  | Guidelines for documenation | 2, Autumn 2021  | 2, Autumn 2021 |
+  |  Application | 1, December 31, 2021  | 1, Spring 2022 |
+  | Final report | November 15, 2021  | November 15, 2021 |
   | Workshop 1 | December 18, 2019 | . |
-  | Workshop 2 | May 2020 | . |
-  | Workshop 3 | November 2020 | . |
+  | Workshop 2 | May 2021 | . |
+  | Workshop 3 | November 2021 | . |
 
+</center>
 
 # Project schedule and costs
 
@@ -113,18 +120,23 @@ NDHL has three recipient classes: 1) project partners' research units, 2) infras
 
 Milestones coincide with workshop deliverables. Defined milestones (MS) and decision points (DP):
 
+<center>
+
   | Date | MS | DP | Description |
   | ---- | -- | -- | ----------- |
   | Dec 18-19, 2109 | WS 1 | Requirements | Planning content of shared stack |
-  | Jan 15, 2020  | Requirements | . | Finalize WS 1 output |
-  | May 01, 2020  | WS 2 | Abstract description | Stakeholders meeting in order to finalize abstract description of NDHL |
-  | June 15, 2020 | Abstract description | . | Finalize WS 2 output|
-  | Nov 01, 2020  | WS 3 | Application ||
-  | Dec 15, 2020 | Application | . | Finalize WS 3 output |
+  | Jan 15, 2021  | Requirements | . | Finalize WS 1 output |
+  | May 01, 2021  | WS 2 | Abstract description | Stakeholders meeting in order to finalize abstract description of NDHL |
+  | June 15, 2021 | Abstract description | . | Finalize WS 2 output|
+  | Nov 01, 2021  | WS 3 | Application ||
+  | Dec 15, 2021 | Application | . | Finalize WS 3 output |
+
+</center>
 
 ## Project cost estimate
 Cost estimates are in Norwegian crowns (NOK).
 
+<center>
 
 |Calculation item| Hours| Cost |
 |---|:---:|---|
@@ -135,8 +147,11 @@ Cost estimates are in Norwegian crowns (NOK).
 | Administration | . | 40.000 |
 | **Total** | . | 200.000 |
 
+</center>
 
 # Organisation
+
+<center>
 
 | Role | Name |
 | --- | --- |
@@ -144,6 +159,8 @@ Cost estimates are in Norwegian crowns (NOK).
 | Pre-study owner representative | Michaela Barth |
 | Project manager | Kristoffer L. Nielbo |
 | Working group | Eetu Makela, Lars Borin, Lars Johnson, Kristoffer L. Nielbo |
+
+</center>
 
 # Working methods
 NDHL adhere to principles for Open-Source Software (OSS) and publish software under the MIT license. For data NDHL follows the FAIR principles (Findable, Accessible, Interoperable, Reusable) for management of metadata and, when possible, raw and derived data.
@@ -163,6 +180,7 @@ Monitoring is carried out between NeIC and NDHL during bi-monthly management mee
 # Risks
 [comment]: # (We use the scale 1-3, 1: low, 2: medium, 3: high . and for overall risk we multiply the numbers for the probability and impact to form an overall risk.)
 
+<center>
 
 | Type | Risk | Probability | Impact | Responsibility | Response |
 | --- | :---: | :---: | :---: | --- | --- |
@@ -172,19 +190,29 @@ Monitoring is carried out between NeIC and NDHL during bi-monthly management mee
 | `Administrative overhead affects prestudy and/or project implementation` | 6 | 3 | 2 | NeIC | Dialogue between PM, working group, and NeIC |
 | `Travel and accommodation funds are depleted` | 1 | 1 | 1 | PM | Partner host covers catering and accommodation |
 
+</center>
+
 # Edition history
+
+<center>
+
 | Edition | Date | Comment |
 | --- | --- | --- |
-| v1 | Dec 12 |    |
+| v1 | Dec 12 2019 |    |
+| v1 | May 28 2020 |    |
 
+</center>
 
 # Appendices
+
+<center>
 
 | No. | Document name | Document designation/Id |
 |---|---|---|
 | 1 | prestudy application | [application](https://github.com/centre-for-humanities-computing/ndhl.neic/blob/master/project_plan/appendix/application.pdf) |
+| 2 | link to website | [website](https://centre-for-humanities-computing.github.io/Nordic-Digital-Humanities-Laboratory/) |
 
-
+</center>
 
 # References
 [comment]: # (List the documents that are to be seen as references. The list can
