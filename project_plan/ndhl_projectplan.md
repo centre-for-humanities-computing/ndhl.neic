@@ -67,14 +67,12 @@ For the pre-study NDHL has three objectives (in decreasing order of importance):
 *Funding Application(-s)*.
 
 
-*Infrastructure Design*: By autumn 2020 partnering countries should agree on a minimal software stack with shared libraries and applications for Denmark, Finland, Norway, and Sweden alongside documentation for execution, storage, and management layers for such a software stack in Denmark and Finland. This objective takes precedence over other objectives and all *Workshops* (see section 4) should explicitly state how they contribute to this objective. 0.55 of the budget and 0.75 of the workshops are directly dedicated to this objective.
+*Infrastructure Design*: By autumn 2021 partnering countries should agree on a minimal software stack with shared libraries and applications for Denmark, Finland, Norway, and Sweden alongside documentation for execution, storage, and management layers for such a software stack in Denmark and Finland. This objective takes precedence over other objectives and all *Workshops* (see section 4) should explicitly state how they contribute to this objective. 0.55 of the budget and 0.75 of the workshops are directly dedicated to this objective.
 
 *Community Building*: In order to facilitate successful infrastructure design and development it is necessary to build a stronger community among expert users and data and e-infrastructure providers in the Nordic countries. In the pre-study community building is considered as a direct product of *Hack days* and an indirect one of *Workshops* (see section 4). 0.075 of the budget is dedicated to *Hack days*, but if partners can commit time *Center for Humanities Computing Aarhus* will cover additional funding for this under its outreach program.
 
-*Funding Application(-s)*: In order to develop and implement NDHL the partnering countries (or a subset hereof) should formulate a generic research infrastructure application ultimo 2020. The final workshop in December 2020 is dedicated to this objective. If the partners decide not to move forward with the infrastructure this objective is cancelled. The cancellation decision should be an outcome of the final workshop. 0.175 of the budget and 0.25 of the workshops are dedicated to this objective.
+*Funding Application(-s)*: In order to develop and implement NDHL the partnering countries (or a subset hereof) should formulate a generic research infrastructure application ultimo 2021. The final workshop in December 2021 is dedicated to this objective. If the partners decide not to move forward with the infrastructure this objective is cancelled. The cancellation decision should be an outcome of the final workshop. 0.175 of the budget and 0.25 of the workshops are dedicated to this objective.
 
-
-[comment]: # (table has ++dimensions, @Michaela: how do you want it populated? Answer: this is an example below, following our usual way, it should add up to 100 percent)
 
 <center>
 
@@ -199,7 +197,7 @@ Monitoring is carried out between NeIC and NDHL during bi-monthly management mee
 | Edition | Date | Comment |
 | --- | --- | --- |
 | v1 | Dec 12 2019 |    |
-| v1 | May 28 2020 |    |
+| v2 | May 28 2020 |    |
 
 </center>
 
